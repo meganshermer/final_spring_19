@@ -1,0 +1,65 @@
+img{
+    width:100%;
+  }
+  #title{
+    position: relative;
+    top: 50px;
+  }
+  h1{
+    color: #014262;
+    font-size: 150px;
+    background: #FBF7EB;
+    font-family: 'Fire Sans Condensed Bold', sans-serif;
+    margin: 10px;
+  
+  }
+  
+  #lorem{
+    color: #014262;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Roboto Slab Bold', sans-serif;
+    
+  }
+  #description{
+    font-size: 16px;
+    color: #4E4E4E;
+    font-family: 'Roboto Slab Regular', sans-serif;
+  }
+  .img-1{
+    border-radius: 7px; 
+    width: 300px;
+    height: 250px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 4px #000000;
+  
+    
+  }
+  @media screen and (min-width: 768px) {
+    #sea-one{
+      width: 50%;
+    }
+    h1{
+      position: relative;
+      top: -1180px;
+      left: 900px;
+    }
+    p{
+      position: relative;
+      top: -1060px;
+      left: 1050px;
+    }
+    #img-11{
+      position: relative;
+      top: -700px; 
+    }
+    #img-12{
+      position: relative;
+      top: -950px;
+      left: 350px;
+    }
+    #img-13{
+      position: relative;
+      top:-1200px;
+      left: 700px
+    }
